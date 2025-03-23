@@ -18,9 +18,7 @@ https://github.com/user-attachments/assets/38761599-32c7-41ad-bc90-77149047b306
 
 1. `npm start`
 
-2. Scan this QR code with your device camera or the Expo Go app:
-
-   [QR Code Placeholder]
+2. Scan the QR code with your device camera or the Expo Go app:
 
 3. The app will load automatically in Expo Go
 
