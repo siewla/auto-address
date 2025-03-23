@@ -33,7 +33,6 @@ Example request:
 
 https://www.onemap.gov.sg/api/common/elastic/search?searchVal=320078&returnGeom=Y&getAddrDetails=Y
 
-### Project Structure
 
 ### Project Structure
 
